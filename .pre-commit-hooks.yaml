@@ -1,0 +1,5 @@
+-   id: transcrypt
+    name: transcrypt
+    description: A script to configure transparent encryption of sensitive files stored in a Git repository
+    entry: transcrypt pre_commit
+    language: script
